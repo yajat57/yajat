@@ -1,0 +1,60 @@
+body {
+text-align: center;
+background: linear-gradient( #E1BEE7 0%,#90CAF9 100%)
+}
+
+
+
+h1{
+text-shadow: 20px 20px #F8BBD0;
+font-size: 20px;
+}
+
+img{
+border-radius: 50%;
+width: 100px;
+}
+
+
+
+#bio{
+padding: 20px;
+font-size: 18;
+text-align: center;
+}
+
+.line {
+height: 6px;
+width: 70px;
+    background-color: black;
+    margin: 8px auto;
+    float: left;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    font-family:cursive;
+    font-size: 20px;
+}
+
+h2{
+text-shadow: 20px 20px #F8BBD0;
+font-size: 20px;
+}
+
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+#bio { padding: 20px; 
+    font-size: 42;
+    background: pink;
+}
+    
+    
